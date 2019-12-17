@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+## Página Teste POC - Optmize
+Bom Tarde galera, vamos ver o teste AB em ação?
 
-You can use the [editor on GitHub](https://github.com/lfelipesoliveira/pocTAB/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Elemento nada ver com nada
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Lorem Ipsum bla bla bla
 
 ```markdown
 Syntax highlighted code block
